@@ -41,7 +41,7 @@ class line {//dette skaber en class der fortæller objektorienteret hvad klassen
   
   line(float startPosX, float startPosY,float slutPosX,float slutPosY){
     line(startPosX,startPosY,slutPosX,slutPosY);
-    
+    // her har vi linjen der bliver skabt ud fra start x,y og slut x,y , som bliver rettet efter de givne punkter.
   }
   
   
